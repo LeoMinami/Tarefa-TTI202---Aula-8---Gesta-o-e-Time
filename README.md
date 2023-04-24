@@ -30,5 +30,13 @@ Prioridade Valor X Esforço:
 
 - O sistema de lembretes é de baixo valor e baixo esforço.
 
+------------------------------------------------------------------
+
+ID: 1 - Story: Como um paciente eu quero um sistema de login para o exame médico- Estimation: 5 - Priority: 2
+
+ID: 2 - Story: Como um paciente eu quero um sistema de agendamento de exame médico - Estimation: 8 - Priority: 1
+
+ID: 3 - Story: Como um paciente eu quero um sistema de lembretes para exames médicos - Estimation: 2 - Priority: 3
+
 
 
